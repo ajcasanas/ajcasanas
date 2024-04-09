@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... AI programming with python
 - 💞️ I’m looking to collaborate on ... open source projects such as Linux on mobile phones (Ubuntu Touch, Plasma Mobile), and artificial intelligence (xAI GROK)
 - 📫 How to reach me ... X, LinkedIn, and/or stackoverflow
-- ⚡ Fun fact: ... my very first skydive jump was solo, it was insane!
+- ⚡ Fun fact: ... my very first skydive jump was solo, it was INSANE!
 
 <!---
 casrosaj/casrosaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
