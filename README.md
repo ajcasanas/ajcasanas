@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajcasanas
-- 👀 I’m interested in ... python programming, data science, automation, machine learning, artificial intelligence
-- 🌱 I’m currently learning ... data science fundamentals
-- 💞️ I’m looking to collaborate on ... open source projects such as Linux on mobile phones (ARM Linux, Plasma Mobile), RISC-V and artificial intelligence (xAI)
+- 👀 I’m interested in ... python programming, cybersecurity, data science
+- 🌱 I’m currently learning ... python programming
+- 💞️ I’m looking to collaborate on ... open source projects like ARM & RISC-V Linux, Plasma Mobile, and PyTorch
 - 📫 How to reach me ... X, LinkedIn, or email
 - ⚡ Fun fact: ... my very first skydive jump was solo, it was INSANE!
 
